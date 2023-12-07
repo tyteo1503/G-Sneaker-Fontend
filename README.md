@@ -37,6 +37,6 @@ Một cửa sổ trình duyệt mới sẽ mở và hiển thị trang web của
 - Cập nhật số lượng sản phẩm
 - Xoá sản phẩm khỏi giỏ hàng
 ## Một số hình ảnh thực tế
-![Alt Text](URL_of_the_image)
+![Alt Text]([URL_of_the_image](https://github.com/tyteo1503/G-Sneaker-Fontend/blob/main/images/home.png)https://github.com/tyteo1503/G-Sneaker-Fontend/blob/main/images/home.png)
 
 
